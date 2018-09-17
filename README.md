@@ -1,4 +1,4 @@
 # infiniping
 Python DDoS Script (in french)
-<br>
+<br>**WINDOWS ONLY**<br>
 **Version 2 is recommended**
