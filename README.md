@@ -1,0 +1,2 @@
+# infiniping
+Python DDoS Script
